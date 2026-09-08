@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kumbrera.github.io/pablocumbrera/sitemap.xml
